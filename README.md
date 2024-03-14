@@ -27,5 +27,5 @@ Proficient in a wide array of programming tools, including VS Code, Eclipse, Int
 
 Strong professional holding a Postgraduate degree in Computer Software and Database Development with a background of more than 4 years in Information Technology and leading working positions in that field. As the Software Developer, I effectively supervised a team of over 7 different engineers and successfully completed 13 projects within a 5-month timeframe.           
 Currently, I am looking for a full-time position as a Software Developer, willing to strengthen the team with my skills and desire to create, fix, and innovate. 
-To reach me visit my profile on my LinkedIn --> [https://www.linkedin.com/in/parth-prajapati-6baa41166/](📨)
+
 
