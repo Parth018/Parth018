@@ -1,7 +1,7 @@
 ### Software Developer 👨🏻‍💻
 --------------------------------------------------------------
 Experienced Software Developer with a history of over 3 years in application and website development.       
-Proficient in Java, JavaScript, Express.js, React.js, Vue.js, Hibernate, Spring frameworks, and microservices.       
+Proficient in Java, JavaScript, Express.js, React.js, Vue.js, Hibernate, Python, Spring frameworks, and microservices.       
 Cleared certification on Azure Data Fundamentals to understand various cloud services.         
 Participated in collaborative Git usage, creating a social media platform with a team of up to 8 developers meeting a tight deadline of 3 months.       
 Strong grasp of diverse databases including MySQL Server, MongoDB, and PostgreSQL.        
