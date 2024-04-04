@@ -1,17 +1,6 @@
 ### Software Developer 👨🏻‍💻
 --------------------------------------------------------------
-Experienced Software Developer with a history of over 3+ years in application and website development.       
-Proficient in Java, JavaScript, Express.js, React.js, Vue.js, Hibernate, Python, Spring frameworks, and microservices.       
-Cleared certification on Azure Data Fundamentals to understand various cloud services.         
-Participated in collaborative Git usage, creating a social media platform with a team of up to 8 developers meeting a tight deadline of 3 months.       
-Strong grasp of diverse technologies and databases including MySQL Server, PostgreSQL, and MongoDB.        
-Robust expertise in Git, Bitbucket, JIRA, Docker, Jenkins, Tableau, Linux, and Kubernetes.      
-Extensive hands-on experience in the Software Development Life Cycle, particularly Agile Scrum methodologies.       
-<!--Proficient in a wide array of programming tools, including VS Code, Eclipse, IntelliJ, and Visual Studio.-->       
-Strong professional holding a Postgraduate degree in Computer Software and Database Development with a background of more than 5 years in Information Technology and leading working positions in that field. As the Software Developer, I effectively supervised a team of over 9 different engineers and successfully completed 7 projects within a 5-month timeframe.           
-Currently, I am looking for a full-time position as a Software Developer, willing to strengthen the team with my skills and desire to create, fix, and innovate. 
-
-<h3 align="left">Languages and Tools:</h3>
+<!--<h3 align="left">Languages and Tools:</h3>-->
 <p align="left">    
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
 <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> 
@@ -44,5 +33,19 @@ Currently, I am looking for a full-time position as a Software Developer, willin
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
 <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a>
 </p>
+
+Experienced Software Developer with a history of over 3+ years in application and website development.       
+Proficient in Java, JavaScript, Express.js, React.js, Vue.js, Hibernate, Python, Spring frameworks, and microservices.       
+Cleared certification on Azure Data Fundamentals to understand various cloud services.         
+Participated in collaborative Git usage, creating a social media platform with a team of up to 8 developers meeting a tight deadline of 3 months.       
+Strong grasp of diverse technologies and databases including MySQL Server, PostgreSQL, and MongoDB.        
+Robust expertise in Git, Bitbucket, JIRA, Docker, Jenkins, Tableau, Linux, and Kubernetes.      
+Extensive hands-on experience in the Software Development Life Cycle, particularly Agile Scrum methodologies.       
+<!--Proficient in a wide array of programming tools, including VS Code, Eclipse, IntelliJ, and Visual Studio.-->      
+
+Strong professional holding a Postgraduate degree in Computer Software and Database Development with a background of more than 5 years in Information Technology and leading working positions in that field. As the Software Developer, I effectively supervised a team of over 9 different engineers and successfully completed 7 projects within a 5-month timeframe.           
+Currently, I am looking for a full-time position as a Software Developer, willing to strengthen the team with my skills and desire to create, fix, and innovate. 
+
+
 
 
