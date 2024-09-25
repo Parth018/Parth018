@@ -1,6 +1,6 @@
 ### Software Developer 👨🏻‍💻
 --------------------------------------------------------------
-Experienced Software Developer with a history of over 5+ years in application and website development.       
+Experienced Software Developer with a history of expertise in building applications and website development.       
 Proficient in Java, JavaScript, Express.js, React.js, Vue.js, Hibernate, Python, Spring frameworks, and microservices.       
 Cleared certification on Azure Data Fundamentals to understand various cloud services.         
 Participated in collaborative Git usage, creating a social media platform with a team of up to 8 developers meeting a tight deadline of 3 months.       
