@@ -2,9 +2,9 @@
 --------------------------------------------------------------
 Experienced Software Developer with a history of expertise in building applications and website development.       
 Proficient in Java, JavaScript, Express.js, React.js, Vue.js, Hibernate, Python, Spring frameworks, and microservices.       
-Cleared certification on Azure Data Fundamentals to understand various cloud services.         
+Cleared certification on Azure Data to understand various cloud services.         
 Participated in collaborative Git usage, creating a social media platform with a team of up to 8 developers meeting a tight deadline of 3 months.       
-Strong grasp of diverse technologies and databases including MySQL Server, PostgreSQL, and MongoDB.        
+Strong grasp of diverse technologies and databases including MySQL Server, PostgreSQL, ElasticSearch, and MongoDB.        
 Robust expertise in Git, Bitbucket, JIRA, Docker, Jenkins, Tableau, Linux, and Kubernetes.      
 Extensive hands-on experience in the Software Development Life Cycle, particularly Agile Scrum methodologies.       
 <!--Proficient in a wide array of programming tools, including VS Code, Eclipse, IntelliJ, and Visual Studio.-->      
